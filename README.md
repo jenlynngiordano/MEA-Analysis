@@ -1,4 +1,4 @@
-Analysis for 12 well MEA
+Analysis of neuronal iPSC characteristics using Multi-Channel Systems 12-well Micro-Electrode Array
 
 Spatial Layout:
 
